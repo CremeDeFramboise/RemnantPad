@@ -1,0 +1,9 @@
+{
+	"id":"mayu_sigmatechpad",
+	"name":"S-TechPad",
+	"author":"Mayu",
+    "utility": "true",	
+	"version":"1.0",
+	"description":"A revolutionary Sigma-powered Pad that replaces the TriPad. Those slimy Tri-Tachyon rats probably installed a botnet in your TriPad; they also steal your data and personality profile while they are at it.",
+	"gameVersion":"0.95.1a-RC6",
+}
