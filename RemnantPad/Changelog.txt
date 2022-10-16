@@ -1,0 +1,16 @@
+[RemnantPad Version 1.1] 10/16/2022
+==============================
+- Rebranded into RemnantPad. ;^)
+- Adjusted grid color values.
+- Cleaned and revised several images.
+- Replaced and improved the following files:tripad_top_right_decor.png, tripad_bot_right_decor.png, tripad_bot_right_decor2.png.
+==============================
+
+
+--| OLD CHANGELOGS |--
+
+[RemnantPad Version 1.0] 12/22/2021
+==============================
+- Updated to 0.95.1a.
+- Initial release.
+==============================

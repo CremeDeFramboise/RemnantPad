@@ -1,0 +1,32 @@
+{
+	"enableUIStaticNoise":true,
+	"buttonText":[190,255,255,245],
+	"buttonBg":[75,250,170,255],
+	"buttonBgDark":[65,65,60,190],
+	"buttonShortcut":[70,245,175,255],
+	"tripadLineColor":[105,105,120,255],
+	"standardTextColor":[225,225,225,255],
+	"bottomMenuButtonInsetColor":[225,225,225,205],
+	"widgetBorderColorDark":[125,125,180,205],
+	"widgetBorderColorBright":[155,155,190,205],
+	"standardUIIconColor":[125,125,150,255],
+
+	"tripadGridColor":[80,255,175,90], #110
+	"standardGridColor":[70,245,155,50], #95
+
+	#"fogOfWarColor":[35,120,90,0],
+	#"fogOfWarColor":[70,92,114,0], # Default
+	
+	"progressBarCargoColor":[0,255,255,205],
+	"progressBarCrewColor":[0,255,255,205],
+	"progressBarFuelColor":[0,255,255,205],
+	"progressBarOverflowColor":[255,25,25,255],
+	"progressBarHullColor":[120,120,120,255],
+	"progressBarCRColor":[0,255,255,205],
+	"progressBarCrewLossColor":[250,100,0,200],
+	"progressBarStandardColor":[105,105,120,255],
+	"progressBarFleetPointsColor":[0,255,255,255],
+	"progressBarHangarSpaceColor":[90,90,90,255],
+	"progressBarWarningColor":[150,50,35,200],
+	"progressBarDangerColor":[245,100,10,255],	
+}
